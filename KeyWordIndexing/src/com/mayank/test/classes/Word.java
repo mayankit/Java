@@ -6,8 +6,6 @@ public class Word {
 	public String value;
 	
 	
-	
-	
 	/**
 	 * @return the count
 	 */
